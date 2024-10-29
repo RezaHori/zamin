@@ -1,7 +1,6 @@
 
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8" />
   <link rel="icon" type="image/svg+xml" href="favicon.ico" />
@@ -22,6 +21,8 @@
   <meta property="og:url" content="https://owlto.finance" />
   <meta property="og:title" content="Owlto Finance" />
   <meta property="og:description"
+
+
     content="Owlto Finance is an intent-centric interoperability protocol, 'Bridge the World with AI Agent'." />
   <meta property="og:type" content="website" />
   <meta property="og:image" content="https://owlto.finance/icon/img/OwltoFinance4.jpg" />
